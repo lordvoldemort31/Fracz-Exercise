@@ -17,7 +17,7 @@ Once the file is staged, we can commit it using the git commit command.
     git verify
 
 ## commit-only file-staged
-start this exercise by using " git start commit-only file-staged " commend then check which files are currently staged for commit. we can use the git status command to see the status 
+start this exercise by using " git start commit-only file-staged " command then check which files are currently staged for commit. we can use the git status command to see the status 
 since we have two files staged for commit and we only need to commit one ,i want to commit B.txt. You can unstage A.txt using the git reset A.txt commend then commit it then verif
 
 
@@ -83,7 +83,7 @@ now add finally , finished it! in bug file
     git verify
 
 ## change-bransh-history
-exercise can be completed easily by using "git rebase hot-bugfix" commend only
+exercise can be completed easily by using "git rebase hot-bugfix" command only
 
     git start next
     git rebase hot-bugfix
